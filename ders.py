@@ -1,5 +1,5 @@
-from flask import Flask, request
-from flask_restful import Api, Resource
+from flask import Flask,request
+from flask_restful import Api,Resource
 import random
 
 app=Flask(__name__)
