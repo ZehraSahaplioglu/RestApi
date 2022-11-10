@@ -10,7 +10,7 @@
 ![odevkurulum](https://user-images.githubusercontent.com/99864727/201061433-43c907fd-6ffc-456c-bb37-d5385adfbbe3.jpg)
 
 
-# Python dosyası:
+# Python dosyası olusturulması:
 
 ![odevpythondosya](https://user-images.githubusercontent.com/99864727/201062007-14d59007-d876-42bc-a137-682a5d5d5899.jpg)
 
