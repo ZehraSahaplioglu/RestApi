@@ -15,6 +15,11 @@
 ![odevpythondosya](https://user-images.githubusercontent.com/99864727/201062007-14d59007-d876-42bc-a137-682a5d5d5899.jpg)
 
 
+# Python kodu:
+
+![pythonkod](https://user-images.githubusercontent.com/99864727/201063025-a43170cb-2203-458d-b2f0-e0a1b2c4c3c6.jpg)
+
+
 # Sonuc:
 
 ![odevsonuc](https://user-images.githubusercontent.com/99864727/201062088-36ad56b9-e1a8-4be3-a3ce-aa49135b7076.jpg)
