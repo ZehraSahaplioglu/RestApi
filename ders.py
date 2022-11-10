@@ -8,16 +8,16 @@ api=Api(app)
 class rastgeleSayiSinif(Resource):
     def get(self):
         randomnumber=random.randint(0,9)
-        return {'Sayi' : randomnumber}, 200
+        return {'Sayi' : randomnumber},200
 
 class kupAl(Resource):
     def get(self,number):
         kupu=number**3
-        return {'kupu' : kupu}, 200
+        return {'kupu' : kupu},200
 
 class Name(Resource):
     def get(self,name):
-        return {'Mesaj' : 'Böyle bir endpoint bulunmuyor!'}, 404
+        return {'Mesaj' : 'Böyle bir endpoint bulunmuyor!'},404
 
 api.add_resource(rastgeleSayiSinif, '/rastgeleSayi')
 api.add_resource(kupAl, '/kupAl/<int:number>')
