@@ -1,6 +1,6 @@
 # ACIK KAYNAK DERSİ ODEV-4
 
-# Sanal amkinenin oluşturulması:
+# Sanal makinenin oluşturulması:
 
 ![odevmakine](https://user-images.githubusercontent.com/99864727/201061779-97f98996-8df7-4fda-915e-62c26a3f47f5.jpg)
 
